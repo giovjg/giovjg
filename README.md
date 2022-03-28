@@ -14,7 +14,7 @@ I am a scientist by training with an entrepreneurial mindset, recently graduated
 - 👯 I’m looking to collaborate on technology for social impact projects
 
 - 💬 Ask me about my portofolio on troopl: troopl.com/gjgutierrez
-- 📫 How to reach me: gjgutierrez@protonmail.com or https://www.linkedin.com/in/giovanna-jaramillogutierrez/
+- 📫 How to reach me: gjgutierrez@protonmail.com 
 - 😄 Pronouns: She/her
 
 <h3 align="left">Tech stack:</h3>
