@@ -23,7 +23,5 @@ I am a scientist by training with an entrepreneurial mindset, recently graduated
 </p>
 
      
-![Github stats](https://github-readme-stats.vercel.app/api?username=giovjg)
-
 
 
