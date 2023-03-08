@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...-->
 
-I am a scientist by training with an entrepreneurial mindset, recently graduated from Le wagon web development bootcamp. Life-long learner, driven by the ethical use of AI to solve challenges related to the UN SDGs.  
+I am a scientist by training with an entrepreneurial mindset. Life-long learner, driven by the ethical use of AI to solve challenges related to the UN SDGs.  
 
 - 👯 I’m looking to collaborate on technology for social impact projects
 
